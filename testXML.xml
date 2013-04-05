@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tezaurs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+
+<s i="0">
+    <v>
+        <vf>a-</vf>
+    </v>
+    <g_n>
+        <n nr="1">
+            <d>
+                <t>Priedeklis ar nolieguma nozimi grieku cilmes svešvardos.</t>
+            </d>
+        </n>
+    </g_n>
+    <avots>[LEV]</avots>
+</s>
+
+
+
+
+
+<s i="0">
+    <v>
+        <vf>a</vf>
+    </v>
+    <g_n>
+        <n nr="1">
+            <d>
+            <t>Alfabeta otrais burts.</t>
+            </d>
+        </n>
+        <n nr="2">
+            <gram>izsauk.</gram>
+            <d>
+                <t>Lieto, lai izteiktu dažadas runataja izjutas (izbrinu, parsteigumu, sajusmu u.tml.).</t>
+            </d>
+            <g_piem>
+                <piem>
+                    <t>A ne</t>
+                    <n>
+                        <d>
+                            <t>nekada gadijuma; ak, ne!</t>
+                        </d>
+                    </n>
+                </piem>
+                <piem>
+                    <t>a pas</t>
+                    <n>
+                        <d>
+                            <t>(a) a, paskaties tacu! (b) nepatikas izsauciens. (c) uzsauciens braucejam vai arajam, kura zirgs nogriezies no cela vai vagas.</t>
+                        </d>
+                    </n>
+                </piem>
+            </g_piem>
+        </n>
+    </g_n>
+    <avots>[LLVV, ME]</avots>
+</s>
+
+<s i="0">
+<v>
+<vf>AAZ</vf>
+<gram>novec.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Preparats lopbaribas kimismkai konservešanai; škidums, kuru gatavoja no 4,5 l udens, 1 l tehniskas salsskabes un 62 g natrija sulfata (vai 140 g glaubersals).</t>
+</d>
+</n>
+</g_n>
+<avots>[LxE]</avots>
+</s>
+
+<s i="0">
+<v>
+<vf>a.k.</vf>
+<gram>sais.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Abonenta kastite (kopa ar kartas numuru, piem., a.k. 4).</t>
+</d>
+</n>
+</g_n>
+<avots>[i1]</avots>
+</s>
+<s i="0">
+<v>
+<vf>A.L.M.</vf>
+<gram>novec.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Brivo makslu magistrs (latinu "Artium Liberalium Magister").</t>
+</d>
+</n>
+</g_n>
+<avots>[KV]</avots>
+</s>
+<s i="0">
+<v>
+<vf>a/k</vf>
+<gram>sais.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Abonenta kastite.</t>
+</d>
+</n>
+<n nr="2">
+<d>
+<t>Auksti kupinats.</t>
+</d>
+</n>
+</g_n>
+<avots>[i1]</avots>
+</s>
+<s i="0">
+<v>
+<vf>ēst</vf>
+<gram>trans.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Akciju sabiedriba (kopa ar nosaukumu).</t>
+</d>
+</n>
+</g_n>
+<avots>[i2]</avots>
+</s>
+<s i="0">
+<v>
+<vf>aa</vf>
+</v>
+<g_n>
+<n nr="1">
+<gram>izsauk.</gram>
+<d>
+<t>Lieto, lai izteiktu izpratni, apmierinajumu.</t>
+</d>
+</n>
+<n nr="2">
+<gram>sais., novec.</gram>
+<d>
+<t>Tikpat daudz no katram zalem; (receptes; lat. "ana").</t>
+</d>
+</n>
+</g_n>
+<avots>[SV33]</avots>
+</s>
+<s i="0">
+<v>
+<vf>Aa</vf>
+<gram>novec.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Vairaku upju vardi vacu apdzivotas zemes.</t>
+</d>
+<g_piem>
+<piem>
+<t>Kurzemes Aa</t>
+<n>
+<d>
+<t>Lielupe.</t>
+</d>
+</n>
+</piem>
+<piem>
+<t>Vidzemes Aa</t>
+<n>
+<d>
+<t>Gauja.</t>
+</d>
+</n>
+</piem>
+<piem>
+<t>Sveta Aa</t>
+<n>
+<d>
+<t>Sventa.</t>
+</d>
+</n>
+</piem>
+</g_piem>
+</n>
+</g_n>
+<avots>[KV]</avots>
+</s>
+<s i="0">
+<v>
+<vf>AA</vf>
+<gram>sais.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Anonimo alkoholiku kustiba (anglu "Alcoholics Anonymous").</t>
+</d>
+</n>
+</g_n>
+<avots>[i2]</avots>
+</s>
+<s i="0">
+<v>
+<vf>AABS</vf>
+<gram>sais.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Baltijas studiju veicinašanas apvieniba (anglu "Association for the Advancement of Baltic Studies").</t>
+</d>
+</n>
+</g_n>
+<avots>[PL]</avots>
+</s>
+<s i="0">
+<v>
+<vf>AAE</vf>
+<gram>sais.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Apvienotie Arabu Emirati.</t>
+</d>
+</n>
+</g_n>
+<avots>[MLVV]</avots>
+</s>
+<s i="0">
+<v>
+<vf>Aahof</vf>
+<gram>vietv., vest.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Adažu pagasta bijušais nosaukums vaciski.</t>
+</d>
+</n>
+<n nr="2">
+<d>
+<t>Gulbenes novada Lejasciema pagasta bijušais nosaukums vaciski.</t>
+</d>
+</n>
+</g_n>
+<avots>[LPag, LME, LPag]</avots>
+</s>
+<s i="0">
+<v>
+<vf>AAIS</vf>
+<gram>sais., vest.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Apgabala auglkopibas izmeginajumu stacija.</t>
+</d>
+</n>
+</g_n>
+<avots>[i1]</avots>
+</s>
+<s i="0">
+<v>
+<vf>AAK</vf>
+<gram>sais.</gram>
+</v>
+<g_n>
+<n nr="1">
+<d>
+<t>Antiko automobilu klubs.</t>
+</d>
+</n>
+<n nr="2">
+<d>
+<t>Augstaka atestacijas komisija.</t>
+</d>
+</n>
+</g_n>
+<avots>[i1]</avots>
+</s>
+</tezaurs>
